@@ -272,3 +272,7 @@ La base de datos se inicializa automáticamente con 10 videojuegos:
 | Baldur's Gate 3 | Larian Studios | RPG | PC | $59.99 |
 | Forza Horizon 5 | Playground Games | Carreras | Xbox | $39.99 |
 | Hades II | Supergiant Games | Roguelike | PC | $24.99 |
+
+## Nota:
+
+En la imagen del POST desde postman, sale error 429 debido a que no pude pagar gemini, aun asi es completamente funcional con una clave de API con tokens.
