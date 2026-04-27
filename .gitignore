@@ -1,0 +1,40 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Variables de entorno (contiene API keys privadas)
+.env
+
+# Base de datos (se genera automaticamente)
+data/
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
